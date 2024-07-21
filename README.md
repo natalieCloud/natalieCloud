@@ -1,4 +1,17 @@
 ### Hello there 👋😄
+<hr/>
+
+- 😄 Pronouns: any
+- 🔭 Undergradute computer science student at Ohio State University
+- 🌱 Currently learning about parallel computing!
+- 💬 Ask me about Blokus or Plants or Painting or my love of Disk Scheduling Algorithms!
+
+<hr/>
+
+My [smiski](https://smiski.com/e/) whom I love and adore - their deskside support has beeen invaluable to my studies
+<br/>
+
+![Smiski](https://github.com/user-attachments/assets/a0e55f84-941b-4c97-a0d3-e45a73347f28)
 
 <!--
 **natalieCloud/natalieCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
