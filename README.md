@@ -2,7 +2,7 @@
 <hr/>
 
 - 😄 Pronouns: any
-- 🔭 Undergradute computer science student at Ohio State University
+- 🔭 Undergradute computer science student
 - 🌱 Currently learning about parallel computing!
 - 💬 Ask me about Blokus or Plants or Painting or my love of Disk Scheduling Algorithms!
 
