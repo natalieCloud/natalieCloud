@@ -4,7 +4,7 @@
 - 😄 Pronouns: any
 - 🔭 Undergradute computer science student
 - 🌱 Currently learning about parallel computing!
-- 💬 Ask me about Blokus or Plants or Painting or my love of Disk Scheduling Algorithms!
+- 💬 Ask me about Blokus or Bass Guitar or Plants or Painting or my love of Disk Scheduling Algorithms!
 
 <hr/>
 
