@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: any
 - 🔭 Undergradute computer science student
-- 🌱 Currently learning about parallel computing!
+- 🌱 Currently learning about stuff! Things if you will!
 - 💬 Ask me about Blokus or Bass Guitar or Plants or Painting or my love of Disk Scheduling Algorithms!
 
 <hr/>
