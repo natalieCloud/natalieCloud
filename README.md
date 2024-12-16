@@ -1,7 +1,7 @@
 ### Hello there 👋😄
 <hr/>
 
-- 😄 Pronouns: any
+- 😄 Pronouns: he/she/they
 - 🔭 Undergradute computer science student
 - 🌱 Currently learning about stuff! Things if you will!
 - 💬 Ask me about Blokus or Bass Guitar or Plants or Painting or my love of Disk Scheduling Algorithms!
