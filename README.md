@@ -2,8 +2,8 @@
 <hr/>
 
 - 😄 Pronouns: he/she/they
-- 🔭 Undergradute computer science student
-- 🌱 Currently learning about stuff! Things if you will!
+- 🔭 Undergradute computer science student @ ${\color{red}\text{THE Ohio State University}}$
+- 🌱 Interested in Operating Systems, Education, and Computing Ethics!
 - 💬 Ask me about Blokus or Bass Guitar or Plants or Painting or my love of Disk Scheduling Algorithms!
 
 <hr/>
