@@ -2,7 +2,8 @@
 <hr/>
 
 - 😄 Pronouns: he/she/they
-- 🔭 Undergradute computer science student @ ${\color{red}\text{THE Ohio State University}}$
+- ⚡ Undergraduate Degree from ${\color{red}\text{THE* Ohio State University}}$
+- 🔭 Currently working on a personal webpage, as well as continuing the [polyominos project](https://github.com/natalieCloud/Polyomino-Generation)
 - 🌱 Interested in Operating Systems, Education, and Computing Ethics!
 - 💬 Ask me about Blokus or Bass Guitar or Plants or Painting or my love of Disk Scheduling Algorithms!
 
@@ -12,6 +13,9 @@ My [smiski](https://smiski.com/e/) whom I love and adore - their deskside suppor
 <br/>
 
 ![Smiski](https://github.com/user-attachments/assets/a0e55f84-941b-4c97-a0d3-e45a73347f28)
+
+
+* Obligatory THE
 
 <!--
 **natalieCloud/natalieCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
