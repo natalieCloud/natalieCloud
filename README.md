@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/she/they
 - ⚡ Undergraduate Degree from ${\color{red}\text{THE* Ohio State University}}$
 - 🔭 Currently working on a personal webpage, as well as continuing the [polyominos project](https://github.com/natalieCloud/Polyomino-Generation)
-- 🌱 Interested in Operating Systems, Education, and Computing Ethics!
+- 🌱 Interested in Operating Systems, Algorithms, Education, and Computing Ethics!
 - 💬 Ask me about Blokus or Bass Guitar or Plants or Painting or my love of Disk Scheduling Algorithms!
 
 <hr/>
